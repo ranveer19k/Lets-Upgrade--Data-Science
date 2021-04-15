@@ -1,2 +1,2 @@
-# Lets-Upgrade--Data-Science
+# Lets-Upgrade--Data-Science Project.
 Assignments
